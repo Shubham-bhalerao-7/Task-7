@@ -35,5 +35,4 @@ This report is written for the **Head Coach and Athletic Director of Syracuse Wo
 
 ---
 
-## 📂 Repository Structure
 
